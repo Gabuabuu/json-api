@@ -17,7 +17,7 @@ Instale as dependências
 Inicie o servidor
 
 ```bash
-  npm run start
+  npm start
 ```
 
 Crie um arquivo chamado db.json e coleque as informações como as do exemplo
