@@ -1,0 +1,47 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Batman: O Cavaleiro das trevas",
+      "ano": "2008",
+      "roteiro": "Jonathan Nolan, Christopher Nolan",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/98/32/19870786.jpg",
+      "produtoraId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "LEGO Batman: O Filme",
+      "ano": "2017",
+      "roteiro": "Seth Grahame-Smith, Chris McKenna",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/16/12/07/17/24/226855.jpg",
+      "produtoraId": 1
+    },
+    {
+      "id": 3,
+      "titulo": "Spider-Man: No Way Home",
+      "ano": "2021",
+      "roteiro": "Chris McKenna, Erik Sommers",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/21/11/08/16/02/3963914.png",
+      "produtoraId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "Hulk",
+      "ano": "2003",
+      "roteiro": "James Schamus",
+      "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/bzp/01/34509.jpg",
+      "produtoraId": 2
+    }
+  ],
+  "produtoras": [
+    {
+      "id": 1,
+      "nome": "Warner Bros"
+    },
+
+    {
+      "id": 2,
+      "nome": "Marvel"
+    }
+  ]
+}
